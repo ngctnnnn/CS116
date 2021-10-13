@@ -3,6 +3,11 @@
 ## CS116 - Python programming for Machine Learning
 </div>
 
+### Lecturer
+PhD. Tiep Vinh Nguyen
+
+---
+
 ### Course progress
 | Week | Problem | Status | 
 |:---:|:---:|:--:|
