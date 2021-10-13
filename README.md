@@ -16,3 +16,4 @@ PhD. Tiep Vinh Nguyen
 | 3 | [Population statistics analysis and HCMC's district boundary](https://github.com/ngctnnnn/CS116/tree/main/Week3) | ![](https://img.shields.io/badge/-Done-brightgreen) | 
 | 4 | [Click map analysis with Heat map and KMeans](https://github.com/ngctnnnn/CS116/tree/main/Week4) | ![](https://img.shields.io/badge/-Done-brightgreen) |
 | 5 | [Compress image and sound with Principal Component Analysis](https://github.com/ngctnnnn/CS116/tree/main/Week5) | ![](https://img.shields.io/badge/-Done-brightgreen)
+| 6 | [PCA and Logistic Regression for wine classifying](https://github.com/ngctnnnn/CS116/tree/main/Week6) |![](https://img.shields.io/badge/-Done-brightgreen) 
