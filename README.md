@@ -18,4 +18,5 @@ PhD. Tiep Vinh Nguyen
 | 5 | [Compress image and sound with Principal Component Analysis](https://github.com/ngctnnnn/CS116/tree/main/Week5) | ![](https://img.shields.io/badge/-Done-brightgreen)
 | 6 | [PCA and Logistic Regression for wine classifying](https://github.com/ngctnnnn/CS116/tree/main/Week6) |![](https://img.shields.io/badge/-Done-brightgreen)
 | 7 | [Classify social network data with all ML algorithms](https://github.com/ngctnnnn/CS116/tree/main/Week7) | ![](https://img.shields.io/badge/-Done-brightgreen)
-| 8 | [Univariate and multivariate Linear Regression](https://github.com/ngctnnnn/CS116/tree/main/Week8) | ![](https://img.shields.io/badge/-Done-brightgreen) 
+| 8 | [Univariate and multivariate Linear Regression](https://github.com/ngctnnnn/CS116/tree/main/Week8) | ![](https://img.shields.io/badge/-Done-brightgreen)
+| 9 | [Churn modelling with Neural Network](https://github.com/ngctnnnn/CS116/tree/main/Week9) | ![](https://img.shields.io/badge/-Done-brightgreen)  
