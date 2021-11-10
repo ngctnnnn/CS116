@@ -4,7 +4,8 @@
 </div>
 
 ### Lecturer
-PhD. Tiep Vinh Nguyen
+
+<b> PhD. Tiep Vinh Nguyen </b>
 
 ---
 
