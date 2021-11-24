@@ -21,4 +21,5 @@
 | 7 | [Classify social network data with all ML algorithms](https://github.com/ngctnnnn/CS116/tree/main/Week7) | ![](https://img.shields.io/badge/-Done-brightgreen)
 | 8 | [Univariate and multivariate Linear Regression](https://github.com/ngctnnnn/CS116/tree/main/Week8) | ![](https://img.shields.io/badge/-Done-brightgreen)
 | 9 | [Churn modelling with Neural Network](https://github.com/ngctnnnn/CS116/tree/main/Week9) | ![](https://img.shields.io/badge/-Done-brightgreen) 
-| 10 | [MiniResNet for MNIST data classification](https://github.com/ngctnnnn/CS116/tree/main/Week10)  | ![](https://img.shields.io/badge/-Done-brightgreen)  
+| 10 | [MiniResNet for MNIST data classification](https://github.com/ngctnnnn/CS116/tree/main/Week10)  | ![](https://img.shields.io/badge/-Done-brightgreen) 
+| 11 | [Grid Search for SVM](https://github.com/ngctnnnn/CS116/tree/main/Week11)  | ![](https://img.shields.io/badge/-Done-brightgreen)  
