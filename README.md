@@ -23,4 +23,5 @@
 | 9 | [Churn modelling with Neural Network](https://github.com/ngctnnnn/CS116/tree/main/Week9) | ![](https://img.shields.io/badge/-Done-brightgreen) 
 | 10 | [MiniResNet for MNIST data classification](https://github.com/ngctnnnn/CS116/tree/main/Week10)  | ![](https://img.shields.io/badge/-Done-brightgreen) 
 | 11 | [Grid Search for SVM](https://github.com/ngctnnnn/CS116/tree/main/Week11)  | ![](https://img.shields.io/badge/-Done-brightgreen) 
-| 12 | [Gradient Boost and XGBoost](https://github.com/ngctnnnn/CS116/tree/main/Week12)  | ![](https://img.shields.io/badge/-Done-brightgreen)   
+| 12 | [Gradient Boost and XGBoost](https://github.com/ngctnnnn/CS116/tree/main/Week12)  | ![](https://img.shields.io/badge/-Done-brightgreen)  
+| 13 | [Deep learning for feature extraction](https://github.com/ngctnnnn/CS116/tree/main/Week13) | ![](https://img.shields.io/badge/-Done-brightgreen) 
